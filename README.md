@@ -72,10 +72,13 @@ O sistema foi desenvolvido utilizando **Node.js** com a biblioteca **whatsapp-we
 ## 🎯 Créditos
 
 👨‍💻 **Desenvolvedor:** Breno de Oliveira Brocanello  
-🔗 [GitHub](https://github.com/BrenoBrocanello)
+🔗 [GitHub](https://github.com/BrenoBrocanello) | 🌐 [LinkedIn](https://www.linkedin.com/in/breno-brocanello/)
 
 🛠️ **Revisão/Supervisão/Scrum Master:** Ariel Ladislau Reises  
-🔗 [GitHub](https://github.com/arielreises) | 🌐 [Site](https://www.arielreises.com.br)
+🔗 [GitHub](https://github.com/arielreises) | 🌐 [LinkedIn](https://www.linkedin.com/in/arielreises/)
+
+🏥 **Projeto desenvolvido em parceria com:** CACD Jundiaí
+🌐 [Site](https://cacdjundiai.com.br/)
 
 ---
 ✅ **Este chatbot foi desenvolvido para otimizar a comunicação entre pacientes e clínicas, contribuindo para a melhoria na adesão aos exames médicos.**
