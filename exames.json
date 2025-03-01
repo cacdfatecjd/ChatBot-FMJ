@@ -1,0 +1,24 @@
+{
+  "pacientes": {
+    "5511917022233@c.us": {
+      "nome": "Brenooo",
+      "idade": "25",
+      "email": "breno.brocanello@hotmail.com",
+      "telefone": "5511917022233",
+      "dataExame": "28/02/2025",
+      "confirmado": false,
+      "notificacoes": {
+        "doisDias": true
+      }
+    },
+    "5511963791919@c.us": {
+      "nome": "Ariel Владислав Reises",
+      "idade": "30",
+      "email": "ariel@reises.com.br",
+      "telefone": "5511963791919",
+      "dataExame": "27/02/2025",
+      "confirmado": null,
+      "notificacoes": {}
+    }
+  }
+}
